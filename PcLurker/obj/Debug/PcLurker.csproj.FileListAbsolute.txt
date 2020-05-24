@@ -1,0 +1,9 @@
+D:\GitHub\PCKiller\PcKillerTool\PcLurker\bin\Debug\PcLurker.exe
+D:\GitHub\PCKiller\PcKillerTool\PcLurker\bin\Debug\PcLurker.pdb
+D:\GitHub\PCKiller\PcKillerTool\PcLurker\obj\Debug\PcLurker.Form1.resources
+D:\GitHub\PCKiller\PcKillerTool\PcLurker\obj\Debug\PcLurker.Properties.Resources.resources
+D:\GitHub\PCKiller\PcKillerTool\PcLurker\obj\Debug\PcLurker.csproj.GenerateResource.cache
+D:\GitHub\PCKiller\PcKillerTool\PcLurker\obj\Debug\PcLurker.csproj.CoreCompileInputs.cache
+D:\GitHub\PCKiller\PcKillerTool\PcLurker\obj\Debug\PcLurker.exe
+D:\GitHub\PCKiller\PcKillerTool\PcLurker\obj\Debug\PcLurker.pdb
+D:\GitHub\PCKiller\PcKillerTool\PcLurker\obj\Debug\PcLurker.csprojAssemblyReference.cache

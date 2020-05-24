@@ -1,0 +1,9 @@
+D:\GitHub\PCKiller\PcKillerTool\PcKillerTool\bin\Debug\PcKillerTool.exe
+D:\GitHub\PCKiller\PcKillerTool\PcKillerTool\bin\Debug\PcKillerTool.pdb
+D:\GitHub\PCKiller\PcKillerTool\PcKillerTool\obj\Debug\PcKillerTool.csprojAssemblyReference.cache
+D:\GitHub\PCKiller\PcKillerTool\PcKillerTool\obj\Debug\PcKillerTool.Form1.resources
+D:\GitHub\PCKiller\PcKillerTool\PcKillerTool\obj\Debug\PcKillerTool.Properties.Resources.resources
+D:\GitHub\PCKiller\PcKillerTool\PcKillerTool\obj\Debug\PcKillerTool.csproj.GenerateResource.cache
+D:\GitHub\PCKiller\PcKillerTool\PcKillerTool\obj\Debug\PcKillerTool.csproj.CoreCompileInputs.cache
+D:\GitHub\PCKiller\PcKillerTool\PcKillerTool\obj\Debug\PcKillerTool.exe
+D:\GitHub\PCKiller\PcKillerTool\PcKillerTool\obj\Debug\PcKillerTool.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcKillerTool", "PcKillerTool\PcKillerTool.csproj", "{B778722C-7D96-4066-9172-2BD71D8543D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcLurker", "PcLurker\PcLurker.csproj", "{5FCF55A6-EF4A-4CBD-B435-559DB0929AC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B778722C-7D96-4066-9172-2BD71D8543D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B778722C-7D96-4066-9172-2BD71D8543D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B778722C-7D96-4066-9172-2BD71D8543D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B778722C-7D96-4066-9172-2BD71D8543D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FCF55A6-EF4A-4CBD-B435-559DB0929AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCF55A6-EF4A-4CBD-B435-559DB0929AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCF55A6-EF4A-4CBD-B435-559DB0929AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCF55A6-EF4A-4CBD-B435-559DB0929AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54B66B24-D9F0-4C13-9520-0492522D5DAF}
+	EndGlobalSection
+EndGlobal
